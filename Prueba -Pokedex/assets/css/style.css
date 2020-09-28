@@ -1,0 +1,114 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1, h3 {
+    font-family: 'Chewy', cursive;
+}
+
+#poke-border {
+    background-image: url(../img/imgfinal.png);
+    background-repeat: no-repeat;
+    background-size: 100%; 
+}
+
+.titulos {
+    font-family: 'Chewy', cursive;
+    color: #000000;
+    font-size: xx-large;
+    margin: 0rem 4rem; 
+    text-align: center; 
+       
+}
+#titulo-text {
+
+    text-align: center;
+}
+
+.encabezado {
+    text-align: center;
+
+}
+
+
+#input.text {
+    margin: 0rem 5rem;
+}
+
+.imgcentral {
+    max-width: 100%;
+    height: auto;  
+
+}
+
+.form-control {
+    border-color: #000000;
+    text-align: center;
+}
+
+
+#logos {
+    width: 50%;
+    height: 50%; 
+
+}
+
+#backnav {
+    background-image: url(../img/nav2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 150%; 
+
+}
+
+#burger {
+    background-color: #0499e7;
+    border-color: #ffffff;
+    
+}
+
+
+.final {
+    background: #e70012;
+    margin: auto;
+    
+    
+}
+.final a {
+    color: #ffffff;
+}
+
+.media {
+    
+    text-align: left;
+}
+
+.central {
+    text-align: center;
+}
+
+#suscripcion {
+    background-color:  #0499e7;
+}
+#tituloreserv {
+color: #000000;
+}
+
+#canvasimg {
+    width: 15em;
+    height: 15em;
+}
+
+#botonshield {
+    background-color: #e60b5a;
+}
+#bordershield {
+    border-color: #e60b5a;
+    
+}
+#bordersword {
+    border-color: #0499e7;
+    
+}
+#tipopng {
+    opacity: 0.8;
+}
