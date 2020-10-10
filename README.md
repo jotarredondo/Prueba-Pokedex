@@ -12,4 +12,4 @@ La página se realiza como estrategia para publicitar el nuevo juego de pokemón
 Diseñé el logo central basándome en elementos del juego, también contiene links a 
 la página oficial.
 
-Tecnologías : HTML5, CSS, JavaScript, Ajax.
+Tecnologías : HTML5, CSS, JavaScript, Ajax, JQuery.
